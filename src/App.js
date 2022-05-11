@@ -20,7 +20,6 @@ export default function App() {
       setLoading(false);
     }
   };
-  o
   return (
     <div className="App">
       <div>
